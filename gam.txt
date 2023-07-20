@@ -1,0 +1,9 @@
+gam info user
+gam print users allfields > c:\scripts\panzurausers.csv
+gam print groups name description admincreated id aliases members owners managers delimiter "," sortheaders > c:\scripts\panzuragroups.csv
+gam print aliases > c:\scripts\panzuraaliases.csv
+gam print resources allfields > c:\scripts\panzuraresources.csv
+gam all users print delegates > C:\scripts\alldelegates.csv
+
+
+gam user andrew.gonzalez@panzura.com check serviceaccount

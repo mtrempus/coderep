@@ -1,0 +1,53 @@
+Display Name,samaccountname,Organizational Unit,Recipient Type Details,email2,Do we need to Migrate this account?,Convert to Shared Mailbox?,Who Needs Access?
+accontrol,accontrol,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,accontrol@guministry.mail.onmicrosoft.com,?,,
+Andrei Spells,spells,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,spells@guministry.mail.onmicrosoft.com,Yes,,
+Angel Baptist,baptist,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,baptist@guministry.mail.onmicrosoft.com,Yes,,
+boarduser,boarduser,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,boarduser@guministry.mail.onmicrosoft.com,?,,
+business,business,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,business@guministry.mail.onmicrosoft.com,Yes,Convert to Shared Mailbox,"Kara Hanson, Linda Beazlie"
+Chantae Lowery,Lowery,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,Lowery@guministry.mail.onmicrosoft.com,Yes,,
+Chelsea McCarthy,McCarthy,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,McCarthy@guministry.mail.onmicrosoft.com,Yes,,
+Cheryl Ledford,ledford,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,ledford@guministry.mail.onmicrosoft.com,Yes,,
+Chip Berry,Berry,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,Berry@guministry.mail.onmicrosoft.com,Yes,,
+Christine Ringuette,ringuette,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,ringuette@guministry.mail.onmicrosoft.com,Yes,,
+Copier,copier,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,copier@guministry.mail.onmicrosoft.com,Yes,,
+Darrell Campbell,Campbell,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,campbell@guministry.mail.onmicrosoft.com,Yes,,
+Ellen Witzke,Witzke,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,witzke@guministry.mail.onmicrosoft.com,No,,Setup alias for Kara Hanson
+FlexPay,FlexPay,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,FlexPay@guministry.mail.onmicrosoft.com,No,,
+Gail Lewis,lewis,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,lewis@guministry.mail.onmicrosoft.com,Yes,,
+Gin Reid Hall,hall,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,hall@guministry.mail.onmicrosoft.com,Yes,,
+Greensboro Urban Ministry,guministry,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,guministry@guministry.mail.onmicrosoft.com,Yes,,
+Greg Barnes,gbarnes,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,gbarnes@guministry.mail.onmicrosoft.com,Yes,,
+GUAdmin,GUAdmin,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,GUAdmin@guministry.mail.onmicrosoft.com,?,,
+GUM Communications,gumcommunications,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,gumcommunications@guministry.mail.onmicrosoft.com,No,,
+Helen McLaughlin,McLaughlin,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,McLaughlin@guministry.mail.onmicrosoft.com,Yes,,
+info,info,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,info@guministry.mail.onmicrosoft.com,Yes,Convert to Shared Mailbox,Give access to Christine
+Jayvonne Griffin,griffin,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,griffin@guministry.mail.onmicrosoft.com,Yes,Convert to Shared Mailbox,Chip
+Jennifer Reavis,jreavis,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,jreavis@guministry.mail.onmicrosoft.com,Yes,Convert to Shared Mailbox,Chip and Christine
+Kara Hansen,hansen,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,hansen@guministry.mail.onmicrosoft.com,Yes,,
+Kathleen Smith,smith,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,smith@guministry.mail.onmicrosoft.com,Yes,Convert to Shared Mailbox,Chip
+kyocerascanner,kyocerascanner,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,kyocerascanner@guministry.mail.onmicrosoft.com,Yes,,
+Lane Brown,labrown,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,labrown@guministry.mail.onmicrosoft.com,No,,Setup alias for Chip Berry
+Larry King,king,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,king@guministry.mail.onmicrosoft.com,Yes,,
+Lillie Brown,LBrown,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,LBrown@guministry.mail.onmicrosoft.com,Yes,,
+Linda Beazlie,Beazlie,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,Beazlie@guministry.mail.onmicrosoft.com,Yes,,
+Lynne Kirsch,kirsch,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,kirsch@guministry.mail.onmicrosoft.com,No,,Setup alias for Kara Hanson
+Mae Rivers,mrivers,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,rivers@guministry.mail.onmicrosoft.com,Yes,,
+Maggie Colon,Colon,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,Colon@guministry.mail.onmicrosoft.com,Yes,,
+Marcus Miller,Miller,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,Miller@guministry.mail.onmicrosoft.com,Yes,,
+Mark Sumerford,Sumerford,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,Sumerford@guministry.mail.onmicrosoft.com,Yes,,
+Mary O'Neill,ONeill,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,ONeill@guministry.mail.onmicrosoft.com,Yes,,
+Michael Pearson,pearson,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,pearson@guministry.mail.onmicrosoft.com,Yes,,
+Myron Wilkins,Wilkins,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,Wilkins@guministry.mail.onmicrosoft.com,Yes,,
+Pam ID-Deen,ID-Deen,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,ID-Deen@guministry.mail.onmicrosoft.com,Yes,,
+Partnership Copier,partcopy,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,partcopy@guministry.mail.onmicrosoft.com,Yes,,
+Shantell Williams,williams,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,williams@guministry.mail.onmicrosoft.com,Yes,,
+SMTP,gumsmtp,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,gumsmtp@guministry.mail.onmicrosoft.com,?,,
+Steve Sandercock,Sandercock,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,sandercock@guministry.mail.onmicrosoft.com,Yes,,
+Sysmail,sysmail,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,sysmail@guministry.mail.onmicrosoft.com,?,,
+Todd Kowalsky,kowalsky,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,kowalsky@guministry.mail.onmicrosoft.com,Yes,,
+Tony Barnes,barnes,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,barnes@guministry.mail.onmicrosoft.com,Yes,,
+Tony Gilyard,gilyard,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,gilyard@guministry.mail.onmicrosoft.com,Yes,,
+Tonya Morehead,morehead,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,morehead@guministry.mail.onmicrosoft.com,Yes,,
+Tyra Clymer,Clymer,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,Clymer@guministry.mail.onmicrosoft.com,Yes,,
+Vmail,vmail,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,vmail@guministry.mail.onmicrosoft.com,?,,
+Volunteer Assistant,Volunteerassistant,ministry.local/MyBusiness/Users/SBSUsers,User Mailbox,Volunteerassistant@guministry.mail.onmicrosoft.com,Yes,,
